@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title> Face Detection and Recognition with OpenCV </title>
 </head>
 <body>
   <h1>Face Detection and Recognition with OpenCV</h1>
