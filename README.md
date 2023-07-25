@@ -4,7 +4,7 @@ This Python script uses OpenCV to perform face detection and recognition using t
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10
 - OpenCV (cv2) library (Install with `pip install opencv-python`)
 
 ## Usage
