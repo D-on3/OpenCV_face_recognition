@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Face Detection and Recognition with OpenCV</title>
+  <title> Face Detection and Recognition with OpenCV </title>
 </head>
 <body>
   <h1>Face Detection and Recognition with OpenCV</h1>
   
   <h2>Requirements</h2>
   <ul>
-    <li>Python 3.x</li>
+    <li>Python 3.10</li>
     <li>OpenCV (cv2) library (Install with <code>pip install opencv-python</code>)</li>
   </ul>
   
