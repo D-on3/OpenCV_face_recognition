@@ -121,7 +121,3 @@ if __name__ == "__main__":
     live_face_recognizer = LiveFaceRecognizer(cascade_file_path)
     live_face_recognizer.recognize_faces()
 
-    # Example usage of getters
-    face_cascade = live_face_recognizer.get_face_detector().get_face_cascade()
-    print(
-        face_cascade.empty())  # Check if the cascade classifier is loaded properly
